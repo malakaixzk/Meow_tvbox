@@ -341,7 +341,7 @@
                     "name": "CHC汤阴综合",
                     "tvg_name": "CHC汤阴综合",
                     "urls": [
-                        "http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u",
+                        "http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8",
 			"http://live.dxhmt.cn:9081/tv/10523-1.m3u8"
                     ]
                 },
