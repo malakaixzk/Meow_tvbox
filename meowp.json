@@ -338,15 +338,15 @@
                     ]
                 },
 				{
-                    "name": "河南都市",
-                    "tvg_name": "河南都市",
+                    "name": "CHC河南都市",
+                    "tvg_name": "CHC河南都市",
                     "urls": [
                         "http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8"
                     ]
                 },
 				{
-                    "name": "汤阴综合",
-                    "tvg_name": "汤阴综合",
+                    "name": "CHC汤阴综合",
+                    "tvg_name": "CHC汤阴综合",
                     "urls": [
                         "http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u",
 			"http://live.dxhmt.cn:9081/tv/10523-1.m3u8"
