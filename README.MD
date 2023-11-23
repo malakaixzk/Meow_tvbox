@@ -3,7 +3,7 @@
 配置链接:
 
 ```
-https://anaer.github.io/Meow/meow.json
+https://malakaixzk.github.io/Meow_tvbox/meowl.json
 ```
 
 主要自用, 随缘更新
