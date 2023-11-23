@@ -337,14 +337,14 @@
                         "http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8"
                     ]
                 },
-				{
+		{
                     "name": "CHC河南都市",
                     "tvg_name": "CHC河南都市",
                     "urls": [
                         "http://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8"
                     ]
                 },
-				{
+		{
                     "name": "CHC汤阴综合",
                     "tvg_name": "CHC汤阴综合",
                     "urls": [
